@@ -1,0 +1,60 @@
+.container-1 {
+    border: 1px solid black;
+    margin: 5px auto;
+}
+            
+        
+.navbar-1 {
+    text-align:center;
+}
+.navbar-header1 {
+    text-align: center;
+}
+.brand-image {
+    width:100px;
+    height: 100%;
+}
+.jumbotron {
+    background-image: url(https://images.pexels.com/photos/808465/pexels-photo-808465.jpeg?h=350&auto=compress&cs=tinysrgb);
+    background-repeat: no-repeat;
+    background-size: cover;
+}    
+.btn-2{
+    margin-bottom: 2px;
+}
+.gallery1 {
+    margin: 0 auto;
+    border: 1px solid black;
+    width:100%;
+    text-align:center;
+}
+.size-image {
+    margin:  0 auto;
+}
+.img-thumbnail1 {
+    width: 320px;
+    height: 260px;
+}
+.form-group1 {
+    margin: 5px;
+}
+.checkbox1 {
+    padding: 10px auto;
+}
+.sbm-btn1 {
+    margin: 5px auto;
+    text-align: center;
+}
+@media (max-width: 767px){
+    .thumbnails {
+        text-align:center;
+    }
+    .img-thumbnail {
+    width: 260px;
+    height: 130px;
+    
+}
+    .btn-1{
+    	margin: 5px auto;
+ }
+}
